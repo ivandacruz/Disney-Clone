@@ -1,8 +1,10 @@
 # Disney Plus - Clone
 
 ##
-<img src="https://i.ibb.co/BPJ5THy/Screenshot-65.png" />
-
+<h1 align="center">
+    <img src="https://i.ibb.co/BPJ5THy/Screenshot-65.png" />
+</h1>
+    
 <div align="center">Click here:  
     <a  href="https://disney-clone-c2c5c.web.app/home" target='_blank'>Demo</a>
 </div>
