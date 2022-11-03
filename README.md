@@ -4,10 +4,9 @@
 <img src="https://i.ibb.co/BPJ5THy/Screenshot-65.png" />
 
 <div align="center">Click here:  
-    <a  href="https://disney-clone-c2c5c.web.app/home" target='_blank' style="color:cyan">Demo</a>
+    <a  href="https://disney-clone-c2c5c.web.app/home" target='_blank'>Demo</a>
 </div>
 
-<a href="https://disney-clone-c2c5c.web.app/home" target="_blank">Opens in new tab</a>
 
 
 <hr />
@@ -17,8 +16,8 @@
 The clone of Disney Plus was created, made in ReactJS.
 
 ### Ingredients for this Site:
-- Sign up for Firebase account <a href="https://firebase.google.com" ><span style="color: cyan">Here</span></a> 
-- Install Node JS in your computer <a href="https://nodejs.org/en/"><span style="color: cyan">Here</span></a>
+- Sign up for Firebase account <a href="https://firebase.google.com" >Here</a> 
+- Install Node JS in your computer <a href="https://nodejs.org/en/">Here</a>
 <!-- - Download all the images and videos <a href="https://drive.google.com/drive/"></a> -->
 
 #
