@@ -4,8 +4,11 @@
 <img src="https://i.ibb.co/BPJ5THy/Screenshot-65.png" />
 
 <div align="center">Click here:  
-    <a href="https://disney-clone-c2c5c.web.app/home" target='_blank'><span style="color: green">Demo</span></a>
+    <a  href="https://disney-clone-c2c5c.web.app/home" target='_blank' style="color:cyan">Demo</a>
 </div>
+
+<a href="https://disney-clone-c2c5c.web.app/home" target="_blank">Opens in new tab</a>
+
 
 <hr />
 
